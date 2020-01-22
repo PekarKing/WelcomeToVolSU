@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Welcome to VolSU</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_directions">Направления</string>
+    <string name="title_recommendation">Рекомендации</string>
+    <string name="title_instruction">Инструкция</string>
+    <string name="title_position">Рейтинг</string>
+</resources>
